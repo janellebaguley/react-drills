@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       <img src={baxter} className="Image" alt="Baxter" />
+       <img src={baxter} className="Image" alt="Baxter" width = '25%' height = '25%'/>
       </div>
     );
   }
